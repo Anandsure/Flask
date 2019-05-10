@@ -26,14 +26,14 @@ A interactive, blog. Hosted on FLASK web server
   8) 'site.db' is the database file available locally on the host PC directories.
 # Requirements: 
   To run the blog on your base system, install the following modules using your CLI: </br>
-  1) pip install flask
-  2) pip install datetime
-  3) pip install flask-wtf
-  4) pip install flask-sqlalchemy
-  5) pip install wtforms </br>
+  1) $ pip install flask
+  2) $ pip install datetime
+  3) $ pip install flask-wtf
+  4) $ pip install flask-sqlalchemy
+  5) $ pip install wtforms </br>
   If the above CLI install's don't work, Try </br?
-  pip install --upgrade pip </br>
-  or curl https://bootstrap.pypa.io/get-pip.py | python3 </br>
+  $ pip install --upgrade pip </br>
+  or </br> $ curl https://bootstrap.pypa.io/get-pip.py | python3 </br>
   Prefferably, use Python3.7 since Python is stopping services for v2.7
   
   
