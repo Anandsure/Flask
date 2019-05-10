@@ -1,5 +1,5 @@
 # Flask
-A interactive, blog. Hosted on FLASK web server
+An interactive blog. Hosted on FLASK web server
 # Tech Stack:
 1) Python, Flask module, Flask-Sqlalchemy extension
 2) HTML, CSS, BOOTSTRAP FRAMEWORK
