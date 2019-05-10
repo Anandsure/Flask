@@ -31,7 +31,8 @@ A interactive, blog. Hosted on FLASK web server
   3) $ pip install flask-wtf
   4) $ pip install flask-sqlalchemy
   5) $ pip install wtforms </br>
-If the above CLI install's don't work, Try </br?
+</br>  
+If the above CLI install's don't work, Try </br>
   $ pip install --upgrade pip </br>
   or </br> $ curl https://bootstrap.pypa.io/get-pip.py | python3 </br>
   Prefferably, use Python3.7 since Python is stopping services for v2.7
