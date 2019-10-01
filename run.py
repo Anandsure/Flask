@@ -1,7 +1,7 @@
 from flask import flash, redirect, render_template, url_for
 
 
-from falsktest1 import app
+from flasktest1 import app
 
 
 
